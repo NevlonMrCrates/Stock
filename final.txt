@@ -1,0 +1,1 @@
+after successfuly saving the coding in your system, go to cmd, enter "streamlit run 'file_name'.py". then copy the URL and paste it in a browser!
